@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|c:\\users\\rgome\\puctamare\\ciclo 2023-2\\ciclo 2023-2\\lp2\\sem 15\\final 2023-1\\softwarebase\\csharp\\softproductions\\softproductions\\frmgestionseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|solutionrelative:softproductions\\frmgestionseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\softproductions\\frmbusquedadirectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|solutionrelative:softproductions\\frmbusquedadirectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\softproductions\\frmgestionseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|solutionrelative:softproductions\\frmgestionseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|c:\\users\\rgome\\puctamare\\ciclo 2023-2\\ciclo 2023-2\\lp2\\sem 15\\final 2023-1\\softwarebase\\csharp\\softproductions\\softproductions\\frmbusquedaseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB900CA0-BC0B-43D2-AFEF-A9B9CBFE9CFF}|SoftProductions\\SoftProductions.csproj|solutionrelative:softproductions\\frmbusquedaseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBusquedaSeries.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmBusquedaSeries.cs",
+              "RelativeDocumentMoniker": "SoftProductions\\frmBusquedaSeries.cs",
+              "ToolTip": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmBusquedaSeries.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SoftProductions\\frmBusquedaSeries.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:07:30.241Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGestionSeries.cs",
+              "DocumentMoniker": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmGestionSeries.cs",
+              "RelativeDocumentMoniker": "SoftProductions\\frmGestionSeries.cs",
+              "ToolTip": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmGestionSeries.cs",
+              "RelativeToolTip": "SoftProductions\\frmGestionSeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:04:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGestionSeries.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmGestionSeries.cs",
+              "RelativeDocumentMoniker": "SoftProductions\\frmGestionSeries.cs",
+              "ToolTip": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmGestionSeries.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SoftProductions\\frmGestionSeries.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:04:41.295Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBusquedaDirectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmBusquedaDirectores.cs",
+              "RelativeDocumentMoniker": "SoftProductions\\frmBusquedaDirectores.cs",
+              "ToolTip": "C:\\Users\\rgome\\PUCTAMARE\\Ciclo 2023-2\\Ciclo 2023-2\\LP2\\SEM 15\\Final 2023-1\\SoftwareBase\\CSharp\\SoftProductions\\SoftProductions\\frmBusquedaDirectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SoftProductions\\frmBusquedaDirectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:04:41.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

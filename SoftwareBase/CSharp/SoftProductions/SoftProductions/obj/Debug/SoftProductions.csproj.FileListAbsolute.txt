@@ -1,0 +1,23 @@
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\bin\Debug\SoftProductions.exe.config
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\bin\Debug\SoftProductions.exe
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\bin\Debug\SoftProductions.pdb
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.AssemblyReference.cache
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.SuggestedBindingRedirects.cache
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.frmGestionSeries.resources
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.Properties.Resources.resources
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.GenerateResource.cache
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.exe
+C:\Users\fredd\Desktop\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.pdb
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\bin\Debug\SoftProductions.exe.config
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\bin\Debug\SoftProductions.exe
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\bin\Debug\SoftProductions.pdb
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.frmBusquedaDirectores.resources
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.frmBusquedaSeries.resources
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.frmGestionSeries.resources
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.exe
+C:\Users\Rodrigo\Desktop\PUCP\Ciclo 2023-2\LP2\SEM 15\SoftwareBase\CSharp\SoftProductions\SoftProductions\obj\Debug\SoftProductions.pdb
